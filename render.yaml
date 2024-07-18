@@ -3,5 +3,11 @@ services:
     name: ANNIE-X-MUSIC
     env: python
     plan: free
-    buildCommand: pip3 install --no-cache-dir --upgrade --requirement requirements.txt
-    startCommand: bash start
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python bash start"
+    envVars:
+      - key: PORT
+        value: 10000
+    healthCheckPath: "/"
+    healthCheckPort: 10000
+    autoDeploy: true
