@@ -10,5 +10,5 @@ WORKDIR /app/
 
 RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
 
-EXPOSE 8080
+EXPOSE 10000
 CMD bash start
