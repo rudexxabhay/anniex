@@ -95,8 +95,7 @@ SOUNCLOUD_IMG_URL = "https://telegra.ph/file/6086cfef66c505d496a61.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/6086cfef66c505d496a61.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/6086cfef66c505d496a61.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6086cfef66c505d496a61.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6086cfef66c505d496a61.jpg
-"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6086cfef66c505d496a61.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
