@@ -28,10 +28,10 @@ from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "https://telegra.ph/file/6086cfef66c505d496a61.jpg", 
-    "https://telegra.ph/file/6086cfef66c505d496a61.jpg", 
-    "https://telegra.ph/file/6086cfef66c505d496a61.jpg",
-    "https://telegra.ph/file/6086cfef66c505d496a61.jpg",
+    "https://telegra.ph/file/a9eee62e154bdb51a2fd2.jpg", 
+    "https://telegra.ph/file/a9eee62e154bdb51a2fd2.jpg", 
+    "https://telegra.ph/file/a9eee62e154bdb51a2fd2.jpg",
+    "https://telegra.ph/file/a9eee62e154bdb51a2fd2.jpg",
 ]
 
 STICKERS = [
