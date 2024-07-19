@@ -23,8 +23,8 @@ from config import BANNED_USERS
 @language
 async def stats_global(client, message: Message, _):
     upl = stats_buttons(_, True if message.from_user.id in SUDOERS else False)
-    await message.reply_video(
-        video=config.STATS_VID_URL,
+    await message.reply_photo(
+        photo=config.STATS_VID_URL,
         caption=_["gstats_2"].format(app.mention),
         reply_markup=upl,
     )
