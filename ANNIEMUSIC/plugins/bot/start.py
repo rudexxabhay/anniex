@@ -28,27 +28,10 @@ from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "https://telegra.ph/file/c1245469a992ed7eea832.jpg", 
-    "https://telegra.ph/file/9cea0b7593c411edfff53.jpg", 
-    "https://telegra.ph/file/5ce1e15afb0c7e9d17fff.jpg",
-    "https://telegra.ph/file/314badfb74642e96240f5.jpg",
-    "https://telegra.ph/file/235e85ae81c8ee40f7b64.jpg", 
-    "https://telegra.ph/file/c2dfd1a9bda7e9e774541.jpg",
-    "https://telegra.ph/file/70669bef810e52545bb10.jpg", 
-    "https://telegra.ph/file/aaea0abbc1bbeb9c03ba8.jpg",
-    "https://telegra.ph/file/d55b8833e9f93ee6afbcc.jpg", 
-    "https://telegra.ph/file/c7907b3302dc5ad379a06.jpg", 
-    "https://telegra.ph/file/c68e5d503614f748d82e7.jpg", 
-    "https://telegra.ph/file/e10a6b780005047756222.jpg", 
-    "https://telegra.ph/file/91bac150fd50d7d9fdd90.jpg", 
-    "https://telegra.ph/file/bc8adc47b217e8574cc14.jpg",
-    "https://telegra.ph/file/21488284d02bad2e0668e.jpg", 
-    "https://telegra.ph/file/3d4580aa35deaa45a9f44.jpg", 
-    "https://telegra.ph/file/92a67bd139d5eb7e462bd.jpg", 
-    "https://telegra.ph/file/503779919c8b4183a783d.jpg", 
-    "https://telegra.ph/file/a4cb485d162d69037b630.jpg", 
-    "https://telegra.ph/file/ca3c86842fe3a4f07a3b6.jpg", 
-    "https://telegra.ph/file/69e9522016014d6838ad3.jpg", 
+    "https://telegra.ph/file/6086cfef66c505d496a61.jpg", 
+    "https://telegra.ph/file/6086cfef66c505d496a61.jpg", 
+    "https://telegra.ph/file/6086cfef66c505d496a61.jpg",
+    "https://telegra.ph/file/6086cfef66c505d496a61.jpg",
 ]
 
 STICKERS = [
